@@ -1,0 +1,24 @@
+Ticker,Company,Industry,Market Cap
+ASAN,Asana, Inc., Software - Application, 5.43B,NEW
+BLNK,Blink Charging Co., Specialty Retail, 1.92B,"-"
+CHPT,Chargepoint Holdings Inc., Specialty Retail, 7.94B, NEW
+FIZZ,National Beverage Corp., Beverages - Non-Alcoholic, 4.63B
+FUBO,fuboTV Inc., Broadcasting, 2.90B,"-"
+GOGO,Gogo Inc., Telecom Services, 955.14M,"-"
+OTRK,Ontrak, Medical Care Facilities, 565.40M,"-"
+PCT,PureCycle Technologies, Pollution & Treatment Controls, 3.21B, NEW
+PUBM,PubMatic., Software - Application, 2.77B,"-"
+ROOT,Root, Insurance - Property & Casualty, 3.11B,"-"
+SDC,SmileDirectClub, Medical Devices, 4.00B,"-"
+SENS,Senseonics Holdings., Diagnostics & Research, 986.31M,"-"
+WOOF,Petco Health and Wellness Company., Specialty Retail, 4.85B,"-"
+
+Added To List
+ASAN,Asana, Software - Application, 5.43B,NEW
+CHPT,Chargepoint Holdings Inc., Specialty Retail, 7.94B, NEW
+PCT,PureCycle Technologies, Pollution & Treatment Controls, 3.21B, NEW
+
+Dropped From List
+CLOV,Clover Health Investments,Healthcare Plans,3.08B
+PLBY,PLBY Group,Consumer Cyclical,753.30M
+
