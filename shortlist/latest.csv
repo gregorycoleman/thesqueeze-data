@@ -1,24 +1,37 @@
-Ticker,Company,Industry,Market Cap
-ASAN,Asana, Inc., Software - Application, 5.43B,NEW
-BLNK,Blink Charging Co., Specialty Retail, 1.92B,"-"
-CHPT,Chargepoint Holdings Inc., Specialty Retail, 7.94B, NEW
-FIZZ,National Beverage Corp., Beverages - Non-Alcoholic, 4.63B
-FUBO,fuboTV Inc., Broadcasting, 2.90B,"-"
-GOGO,Gogo Inc., Telecom Services, 955.14M,"-"
-OTRK,Ontrak, Medical Care Facilities, 565.40M,"-"
-PCT,PureCycle Technologies, Pollution & Treatment Controls, 3.21B, NEW
-PUBM,PubMatic., Software - Application, 2.77B,"-"
-ROOT,Root, Insurance - Property & Casualty, 3.11B,"-"
-SDC,SmileDirectClub, Medical Devices, 4.00B,"-"
-SENS,Senseonics Holdings., Diagnostics & Research, 986.31M,"-"
-WOOF,Petco Health and Wellness Company., Specialty Retail, 4.85B,"-"
+2021-04-19,Ticker,Company,Industry,Market Cap
+,AMC,AMC Entertainment Holdings Inc.,Entertainment,4.46B,NEW
+,BEEM,Beam Global,Solar,303.73M,NEW
+,BLNK,Blink Charging Co.,Specialty Retail,1.47B,"-"
+,CLOV,Clover Health Investments Corp.,Healthcare Plans,2.99B,NEW
+,ESPR,Esperion Therapeutics Inc.,Biotechnology,755.48M,NEW
+,ETWO,E2open Parent Holdings Inc.,Software - Infrastructure,2.40B,NEW
+,FIZZ,National Beverage Corp.,Beverages - Non-Alcoholic,4.75B,"-"
+,FREQ,Frequency Therapeutics Inc.,Biotechnology,334.88M,NEW
+,GDRX,GoodRx Holdings Inc.,Health Information Services,15.00B,NEW
+,GOGO,Gogo Inc.,Telecom Services,1.16B,"-"
+,OSCR,Oscar Health Inc.,Healthcare Plans,4.11B,NEW
+,OTRK,Ontrak Inc.,Medical Care Facilities,554.24M,"-"
+,PUBM,PubMatic Inc.,Software - Application,2.65B,"-"
+,ROOT,Root Inc.,Insurance - Property & Casualty,2.80B,"-"
+,SENS,Senseonics Holdings Inc.,Diagnostics & Research,847.31M,"-"
+,WKHS,Workhorse Group Inc.,Auto Manufacturers,1.48B,NEW
+,WOOF,Petco Health and Wellness Company Inc.,Specialty Retail,5.04B,"-"
 
 Added To List
-ASAN,Asana, Software - Application, 5.43B,NEW
-CHPT,Chargepoint Holdings Inc., Specialty Retail, 7.94B, NEW
-PCT,PureCycle Technologies, Pollution & Treatment Controls, 3.21B, NEW
+,AMC,AMC Entertainment Holdings Inc.,Entertainment,4.46B
+,BEEM,Beam Global,Solar,303.73M
+,CLOV,Clover Health Investments, Corp.,Healthcare Plans,2.99B
+,ESPR,Esperion Therapeutics Inc.,Biotechnology,755.48M
+,ETWO,E2open Parent Holdings Inc.,Software - Infrastructure,2.40B
+,FREQ,Frequency Therapeutics Inc.,Biotechnology,334.88M
+,GDRX,GoodRx Holdings Inc.,Health Information Services,15.00B
+,OSCR,Oscar Health Inc.,Healthcare Plans,4.11B
+,WKHS,Workhorse Group Inc.,Auto Manufacturers,1.48B
 
 Dropped From List
-CLOV,Clover Health Investments,Healthcare Plans,3.08B
-PLBY,PLBY Group,Consumer Cyclical,753.30M
+,ASAN,Asana Inc., Software - Application, 5.43B,
+,CHPT,Chargepoint Holdings Inc., Specialty Retail, 7.94B, 
+,FUBO,fuboTV Inc., Broadcasting, 2.90B,
+,PCT,PureCycle Technologies, Pollution & Treatment Controls, 3.21B, 
+,SDC,SmileDirectClub, Medical Devices, 4.00B
 
