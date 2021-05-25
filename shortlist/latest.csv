@@ -1,33 +1,22 @@
-2021-05-16,Ticker,Company,Industry,Market Cap,,
-,BLNK,Blink Charging Co.,Specialty Retail,1.13B,-
-,CLOV,Clover Health Investments Corp.,Healthcare Plans,2.69B,-
-,GDRX,GoodRx Holdings Inc.,Health Information Services,10.90B,-
-,GEO,The GEO Group Inc.,REIT - Healthcare Facilities,769.73M,-
-,NKLA,Nikola Corporation,Auto Manufacturers,5.00B,-
-,OTRK,Ontrak Inc.,Medical Care Facilities,524.33M,-
-,POSH,Poshmark Inc.,Internet Retail,2.39B,-
-,SENS,Senseonics Holdings Inc.,Diagnostics & Research,746.94M,-
-,TTCF,Tattooed Chef Inc.,Packaged Foods,1.38B,-
-,WKHS,Workhorse Group Inc.,Auto Manufacturers,939.10M,-
-,WOOF,Petco Health and Wellness Company Inc.,Specialty Retail,5.33B,-
+2021-05-23,Ticker,Company,Industry,Market Cap,
+,AGC,Altimeter Growth Corp.,Shell Companies,717.56M,Added
+,BLNK,Blink Charging Co.,Specialty Retail,1.32B,-
+,CLOV,Clover Health Investments Corp.,Healthcare Plans,2.91B,-
+,GEO,The GEO Group,REIT - Healthcare Facilities,741.85M,-
+,NKLA,Nikola Corporation,Auto Manufacturers,5.08B,-
+,OTRK,Ontrak Inc.,Medical Care Facilities,538.99M,-
+,POSH,Poshmark Inc.,Internet Retail,3.09B,-
+,TTCF,Tattooed Chef Inc.,Packaged Foods,1.62B,-
+,WKHS,Workhorse Group Inc.,Auto Manufacturers,1.04B,-
+,WOOF,Petco Health and Wellness Company Inc.,Specialty Retail,5.74B,-
 ,,,,,
-Added To List,,,,,
-,DNMR,Danimer Scientific Inc.,Specialty Chemicals,1.44B,Added
-,FSLY,Fastly Inc.,Software - Application,4.59B,Added
-,LAZR,Luminar Technologies Inc.,Software - Application,6.69B,Added
-,RIDE,Lordstown Motors Corp.,Auto Manufacturers,1.41B,Added
+Added To List
+,AGC,Altimeter Growth Corp.,Shell Companies,717.56M,Added
 ,,,,,
-Dropped From List,,,,,
-,AMC,AMC Entertainment Holdings Inc.,Entertainment,4.59B,Dropped
-,BEEM,Beam Global,Solar,301.61M,Dropped
-,BFLY,Butterfly Network Inc.,Medical Devices,2.74B,Dropped
-,ETWO,E2open Parent Holdings Inc.,Software - Infrastructure,2.58B,Dropped
-,FUV,Arcimoto Inc.,Recreational Vehicles,373.74M,Dropped
-,GOEV,Canoo Inc.,Auto Manufacturers,2.16B,Dropped
-,GOGO,Gogo Inc.,Telecom Services,1.14B,Dropped
-,OSCR,Oscar Health Inc.,Healthcare Plans,3.82B,Dropped
-,PUBM,PubMatic Inc.,Software - Application,2.66B,Dropped
-,ROOT,Root Inc.,Insurance - Property & Casualty,2.73B,Dropped
-
-
-
+Dropped From List
+,DNMR,Danimer Scientific Inc.,Specialty Chemicals,1.44B,Dropped
+,FSLY,Fastly Inc.,Software - Application,4.59B,Dropped
+,GDRX,GoodRx Holdings Inc.,Health Information Services,10.90B,Dropped
+,LAZR,Luminar Technologies Inc.,Software - Application,6.69B,Dropped
+,RIDE,Lordstown Motors Corp.,Auto Manufacturers,1.41B,Dropped
+,SENS,Senseonics Holdings Inc.,Diagnostics & Research,746.94M,Dropped
