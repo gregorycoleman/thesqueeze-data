@@ -1,30 +1,23 @@
-2021-05-30,Ticker,Company,Industry,Market Cap,
-,AGC,Altimeter Growth Corp.,Financial,Shell Companies,USA,744.07M, -
-,BBBY,Bed Bath & Beyond Inc.,Consumer Cyclical,Specialty Retail,USA,2.93B,Added
-,BLNK,Blink Charging Co.,Consumer Cyclical,Specialty Retail,USA,1.38B, -
-,CLOV,Clover Health Investments  Corp.,Healthcare,Healthcare Plans,USA,3.21B, -
-,FIZZ,National Beverage Corp.,Consumer Defensive,Beverages - Non-Alcoholic,USA,4.63B,Added
-,FUV,Arcimoto Inc.,Consumer Cyclical,Recreational Vehicles,USA,356.95M,Added
-,GEO,The GEO Group Inc.,Real Estate,REIT - Healthcare Facilities,USA,688.76M, -
-,IPOE,Social Capital Hedosophia Holdings Corp. V,Financial,Shell Companies,USA,1.99B,Added
-,NKLA,Nikola Corporation,Consumer Cyclical,Auto Manufacturers,USA,6.28B, -
-,OTRK,Ontrak Inc.,Healthcare,Medical Care Facilities,USA,551.70M, -
-,POSH,Poshmark Inc.,Consumer Cyclical,Internet Retail,USA,3.48B, -
-,REV,Revlon Inc.,Consumer Defensive,Household & Personal Products,USA,662.15M,Added
-,RIDE,Lordstown Motors Corp.,Consumer Cyclical,Auto Manufacturers,USA,1.77B,Added
-,ROOT,Root Inc.,Financial,Insurance - Property & Casualty,USA,2.34B,Added
-,TTCF,Tattooed Chef Inc.,Consumer Defensive,Packaged Foods,USA,1.69B, -
-,WKHS,Workhorse Group Inc.,Consumer Cyclical,Auto Manufacturers,USA,1.17B, -
-,WOOF,Petco Health and Wellness Company Inc.,Consumer Cyclical,Specialty Retail,USA,5.29B, -
-,,,,,
-Added To List
-,BBBY,Bed Bath & Beyond Inc.,Consumer Cyclical,Specialty Retail,USA,2.93B,Added
-,FIZZ,National Beverage Corp.,Consumer Defensive,Beverages - Non-Alcoholic,USA,4.63B,Added
-,FUV,Arcimoto Inc.,Consumer Cyclical,Recreational Vehicles,USA,356.95M,Added
-,IPOE,Social Capital Hedosophia Holdings Corp. V,Financial,Shell Companies,USA,1.99B,Added
-,REV,Revlon Inc.,Consumer Defensive,Household & Personal Products,USA,662.15M,Added
-,RIDE,Lordstown Motors Corp.,Consumer Cyclical,Auto Manufacturers,USA,1.77B,Added
-,ROOT,Root Inc.,Financial,Insurance - Property & Casualty,USA,2.34B,Added
-,,,,,
-Dropped From List
-,
+2021-06-05,Ticker,Company,Industry,Market Cap,,
+,AGC,Altimeter Growth Corp.,Financial,744.43M,-,
+,BBBY,Bed Bath & Beyond Inc.,Consumer Cyclical,3.65B,-,
+,BLNK,Blink Charging Co.,Consumer Cyclical,1.72B,-,
+,CLOV,Clover Health Investments Corp.,Healthcare,4.83B,-,
+,FUV,Arcimoto Inc.,Consumer Cyclical,522.82M,-,
+,GEO,The GEO Group Inc.,Real Estate,765.51M,-,
+,NKLA,Nikola Corporation,Consumer Cyclical,6.91B,-,
+,OTRK,Ontrak Inc.,Healthcare,552.43M,-,
+,REV,Revlon Inc.,Consumer Defensive,847.16M,-,
+,RIDE,Lordstown Motors Corp.,Consumer Cyclical,2.49B,-,
+,ROOT,Root Inc.,Financial,2.50B,-,
+,SOFI,SoFi Technologies Inc. Common Stock,Financial,2.33B,-,
+,TDUP,ThredUp Inc.,Consumer Cyclical,364.00M,-,
+,TTCF,Tattooed Chef Inc.,Consumer Defensive,1.86B,-,
+,WKHS,Workhorse Group Inc.,Consumer Cyclical,1.94B,-,
+,WOOF,Petco Health and Wellness Company Inc.,Consumer Cyclical,5.29B, -,
+Added To List,,,,,,
+,SOFI,SoFi Technologies Inc. Common Stock,Financial,2.33B,Added,
+,TDUP,ThredUp Inc.,Consumer Cyclical,364.00M,Added,
+Dropped From List,,,,,,
+,IPOE,Social Capital Hedosophia Holdings Corp. V,Financial,1.99B,Dropped,
+,POSH,Poshmark Inc.,Consumer Cyclical,3.48B,Dropped,
