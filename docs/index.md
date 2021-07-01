@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
 
 ### The Squeeze Data
 
