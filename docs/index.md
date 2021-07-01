@@ -10,6 +10,11 @@ Data repository for the Short Squeeze newsletter ["The Squeeze"](https://squeeze
 ### The Weekly Data
 
 Every week, we produce a CSV file with possible short squeese stocks.
+
+[Latest Weekly Data](https://github.com/gregorycoleman/thesqueeze-data/blob/master/shortlist/latest.csv)
+
+#### Example
+
 ```markdown
 2021-06-19,Ticker,Company,Industry,Market Cap,
 ,AGC,Altimeter Growth Corp.,Financial,Shell Companies,USA,734.41M,-,11.76,0.09%,288,344,-
