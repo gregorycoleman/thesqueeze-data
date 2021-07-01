@@ -1,8 +1,3 @@
----
-theme: jekyll-theme-cayman
-layout: post
-title:  "Welcome to Jekyll!"
----
 
 ### The Squeeze Data
 
